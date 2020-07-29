@@ -4,24 +4,24 @@ body {
 
 .navbar {
   background-color: black !important;
+  font-family: "Roboto Mono", monospace;
 }
 
 .navbar-brand {
   margin-left: 50px;
 }
 
-.img-fluid {
-  padding-bottom: 2rem;
+.container {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  grid-auto-rows: 1fr;
 }
 
 h1 {
+  font-weight: 340;
   font-size: 30px;
-  text-transform: uppercase;
-  font-weight: bold;
-  text-shadow: 1px 1px 1px #222;
-  margin-top: 20px;
   margin-bottom: 70px;
-  margin-left: 150px;
+  font-family: "Open Sans Condensed", sans-serif;
 }
 
 u {
@@ -30,8 +30,15 @@ u {
   border-bottom: 1px solid #000;
 }
 
-.footer {
-  background-color: black;
+.card {
+  height: 100%;
+}
+
+.card-text {
+  color: black;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 50px;
 }
 
 .jumbotron {
@@ -43,58 +50,23 @@ u {
   margin-bottom: 0rem;
 }
 
-.card-body {
-  padding-top: 30px;
-  padding-bottom: 50px;
-  text-align: center;
-}
-
-.card-text {
-  color: aliceblue;
-  text-align: center;
-}
-
-.card-text2 {
-  color: aliceblue;
-}
-
-.lead {
-  text-size-adjust: 100px;
-}
-
-.card-container {
-  display: flex;
-  margin-top: 50px;
-  margin-bottom: 50px;
-  border: 10px;
-  justify-content: center;
-}
-
-.content {
-  color: black;
-}
 .jumbotron h2 {
   font-weight: 100;
   font-size: 40px;
   font-family: sans-serif;
+  color: aliceblue;
 }
 
 .jumbotron p {
   font-weight: 800;
   font-size: 50px;
   font-family: sans-serif;
+  color: aliceblue;
 }
 
-@media (max-width: 767px) {
-  h1 {
-    padding-top: 10px;
-    font-size: 5vw;
-  }
-}
-
-@media (max-width: 479px) {
-  h1 {
-    padding-top: 5px;
-    font-size: 6vw;
-  }
+.footer {
+  background-color: black;
+  color: aliceblue;
+  text-align: center;
+  font-family: "Roboto Mono", monospace;
 }

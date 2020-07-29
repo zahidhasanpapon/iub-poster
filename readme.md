@@ -4,7 +4,7 @@
 
 Click the link below to view the website.
 
-[Zahid Hasan](https://zahidhasanpapon.github.io/personal-website/assignment01_1631146.html)
+[IUB CSE POSTER](https://zahidhasanpapon.github.io/iub-poster/assignment02-1631146.html)
 
 <!--Code Blocks--->
 
@@ -15,5 +15,3 @@ Click the link below to view the website.
 ```
 
 <!--Screenshot--->
-
-![screenshot](.assignment#2.jpg)
