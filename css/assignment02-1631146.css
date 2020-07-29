@@ -42,7 +42,7 @@ u {
 }
 
 .jumbotron {
-  background-image: url(../assets/img/ddg-bg.jpg);
+  background-image: url(../img/ddg-bg.jpg);
   background-size: 100% 100%;
   background-position: center center;
   background-repeat: no-repeat;
