@@ -15,3 +15,9 @@ Click the link below to view the website.
 ```
 
 <!--Screenshot--->
+Screenshot 1.
+![screenshot](screenshots/screenshot1.png)
+Screenshot 2.
+![screenshot](screenshots/screenshot2.png)
+Screenshot 3. 
+![screenshot](screenshots/screenshot3.png)
